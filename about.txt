@@ -2,6 +2,3 @@ aqui
 é 
 o primeiro!
 testando o clone ... versão segunda
-
-mais outro teste.
-working here
